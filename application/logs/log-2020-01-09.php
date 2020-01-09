@@ -676,3 +676,10 @@ ERROR - 2020-01-09 15:38:26 --> Severity: Notice --> Undefined variable: og_desc
 ERROR - 2020-01-09 15:38:26 --> Severity: Warning --> Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\flowprecision\application\views\view_header.php 161
 ERROR - 2020-01-09 15:38:26 --> Severity: Notice --> Undefined variable: og_photo C:\xampp\htdocs\flowprecision\application\views\view_header.php 161
 ERROR - 2020-01-09 15:38:26 --> 404 Page Not Found: Public/style.css
+ERROR - 2020-01-09 15:40:43 --> Severity: Notice --> Undefined variable: og_title C:\xampp\htdocs\flowprecision\application\views\view_header.php 157
+ERROR - 2020-01-09 15:40:43 --> Severity: Warning --> Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\flowprecision\application\views\view_header.php 159
+ERROR - 2020-01-09 15:40:43 --> Severity: Notice --> Undefined variable: og_id C:\xampp\htdocs\flowprecision\application\views\view_header.php 159
+ERROR - 2020-01-09 15:40:43 --> Severity: Notice --> Undefined variable: og_description C:\xampp\htdocs\flowprecision\application\views\view_header.php 160
+ERROR - 2020-01-09 15:40:43 --> Severity: Warning --> Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\flowprecision\application\views\view_header.php 161
+ERROR - 2020-01-09 15:40:43 --> Severity: Notice --> Undefined variable: og_photo C:\xampp\htdocs\flowprecision\application\views\view_header.php 161
+ERROR - 2020-01-09 15:40:44 --> 404 Page Not Found: Public/style.css
