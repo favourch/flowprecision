@@ -106,7 +106,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="copyright-text">
-					<p><?php echo $setting['footer_copyright']; ?></p>
+					<p><?php echo $setting['footer_copyright']; ?> By <a href="http://twitter.com/Senseifavour">Favour Chukwuedo</a></p>
 				</div>
 			</div>
 		</div>
