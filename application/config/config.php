@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 date_default_timezone_set('America/New_York');
-$config['base_url'] = 'https://flowprecision.herokuapp.com';
+$config['base_url'] = '';
 
 /*
 |--------------------------------------------------------------------------
